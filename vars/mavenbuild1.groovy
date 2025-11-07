@@ -1,3 +1,3 @@
 def call() {
-   sh "mvn package"
+   echo "hello babai"
 }
